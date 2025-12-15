@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fatboy Software
+title: FB Retirement Planner
 ---
 
 # Fatboy Software
@@ -10,7 +10,7 @@ Financial and retirement planning, without the spreadsheets.
 We’re building a simple app that helps you understand, plan, and track your path to retirement — without needing to be a financial expert.
 
 
-## Why Fatboy Software
+## Why FB Retirement Planner
 
 ### Advisor-level depth, without the sales pitch
 Built for people who are comfortable managing their own portfolios, but want better tools than a basic spreadsheet.
