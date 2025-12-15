@@ -16,7 +16,7 @@ We’re building a simple app that helps you understand, plan, and track your pa
 Built for people who are comfortable managing their own portfolios, but want better tools than a basic spreadsheet.
 
 ### One time license fee, no management fees, or yearly subscriptions
-This is a single time license fee, no percent under management or yearly subscription fees. You life changes, change your plan - you own it.
+This is a single time license fee, no percent under management or yearly subscription fees. Your life changes, change your plan - you own it!
 
 ### Designed for “I want to see the impact”
 Every change—retirement age, spending, conversions, debts—flows through to cash flow, taxes, and long-term outcomes you can actually see.
@@ -43,5 +43,7 @@ _A dashboard of your current plan.-
 ![planning flow screenshot](/assets/images/plan_wizard.png)
 _Step-by-step guidance to build and compare plans._
 
+![assets and account entry](/assets/images/assets_accounts.png)
+_Enter or import all of your accounts and add your assets, with customize tax treatment if needed._
 
 [Join the waitlist](mailto:fatboy501@gmail.com?subject=Join%20the%20waitlist%20for%20Fatboy%20Software)
