@@ -34,7 +34,7 @@ Every change—retirement age, spending, conversions, debts—flows through to c
 
 ## Screenshots
 
-![Dashboard screenshot](/assets/images/dashboard.png)
+![landing_page](/assets/images/landing_page.png)
 _A clear view of where you stand today._
 
 ![Planning flow screenshot](/assets/images/planning-flow.png)
