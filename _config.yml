@@ -1,3 +1,32 @@
-title: "Fatboy Software"
-description: "Financial and retirement planning, without the spreadsheets."
+title: "FB Retirement Planner - One-Time License Retirement Planning Software"
+description: "Retirement planning software with a one-time license fee. No subscriptions. Advisor-level tools for Roth conversions, tax optimization, cash flow analysis, and scenario planning."
+url: "https://fatboysoftware.com"
+baseurl: ""
+
+# SEO Settings
+author: "Fatboy Software"
+lang: en_US
+
+# Keywords for search engines
+keywords:
+  - retirement planning software
+  - retirement calculator
+  - financial planning tool
+  - one-time purchase software
+  - no subscription retirement planner
+  - Roth conversion planning
+  - tax optimization retirement
+  - retirement cash flow analysis
+  - Monte Carlo retirement
+  - financial independence calculator
+
+# Social/SEO
+twitter:
+  card: summary_large_image
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Theme
 theme: jekyll-theme-slate

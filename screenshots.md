@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Screenshots - FB Retirement Planner
+title: FB Retirement Planner Screenshots - Features & Interface
+description: Explore FB Retirement Planner features through screenshots. See the planning wizard, cash flow visualization, Roth conversion tools, goal solver, and portfolio analysis.
+keywords: retirement planner screenshots, retirement planning software demo, Roth conversion tool, cash flow visualization, retirement calculator interface
 ---
 
 # FB Retirement Planner Screenshots

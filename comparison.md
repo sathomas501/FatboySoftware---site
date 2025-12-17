@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Feature Comparison - FB Retirement Planner
+title: Retirement Planning Software Comparison - One-Time vs Subscription
+description: Compare FB Retirement Planner to Boldin, MaxiFi, WealthTrace, and others. See why a one-time license with editable tax assumptions beats annual subscriptions.
+keywords: retirement software comparison, Boldin vs MaxiFi, retirement planner reviews, one-time purchase vs subscription, best retirement planning software
 ---
 
 # How FB Retirement Planner Compares
