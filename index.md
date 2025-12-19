@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Fatboy Financial Planner - Serious Planning. Less Serious Approach.
+title: Fatboy Financial Planner
 description: Free retirement planning software with optional Pro upgrade. Start free with core planning, upgrade once for advanced features. No subscriptions, ever.
 keywords: retirement planning software, one-time purchase, no subscription, Roth conversion, tax optimization, retirement calculator
 ---
 
-# Fatboy Software
+## Fatboy Software
 
-## No stock photos of beaches. No grassy fields. Just serious retirement planning software.
+**No stock photos of beaches. No grassy fields. Just serious retirement planning software.**
 
 We're building planning tools for people who want to figure out their retirement without hiring a financial advisor or getting sold an annuity.
 
