@@ -18,7 +18,6 @@ Start planning your retirement today. No credit card. No trial period. No catch.
 - **Portfolio tracking** - Multi-account support with allocation tracking
 - **Editable tax parameters** - Model future tax law changes (TCJA expiration, state tax scenarios)
 - **3 retirement scenarios** - Compare different strategies
-- **Monte Carlo analysis** - Probability-based projections
 - **Social Security planning** - Optimize your claiming strategy
 - **Your data, your computer** - Desktop app, no cloud required
 
@@ -39,6 +38,7 @@ Be a Founding Member. Lock in this price forever.
 **Advanced Planning Tools:**
 - **Unlimited scenarios** - Test as many retirement strategies as you want
 - **Advanced Roth conversion optimizer** - Find the optimal conversion schedule
+- **Monte Carlo Analysis** - Variable # of iterations using selectable risk profiles
 - **Interactive goal solver** - Work backwards from your retirement goals
 - **Sankey cash flow diagrams** - Visual representation of where every dollar goes
 - **Advanced tax optimization** - Sophisticated strategies for minimizing lifetime taxes
@@ -57,8 +57,6 @@ Be a Founding Member. Lock in this price forever.
 Once we reach 200 Founding Members, the price will increase. We haven't announced the regular price yet, but it will be significantly higher than $149.
 
 **Why the limit?** We want feedback from real users before scaling. The first 200 users help us refine the product, and in exchange, they get the best price we'll ever offer.
-
-[Join the Founding Member Waitlist](mailto:fatboy501@gmail.com?subject=Founding%20Member%20-%20Fatboy%20Financial%20Planner)
 
 ---
 
@@ -98,7 +96,7 @@ You'll get:
 
 ### What payment methods do you accept?
 
-We'll accept credit cards, PayPal, and other common payment methods through our payment processor. Details will be provided when the beta launches.
+We'll accept credit cards, PayPal, and other common payment methods through our payment processor. 
 
 ### When does the Founding Member offer end?
 
@@ -110,9 +108,6 @@ When we reach 200 users. Could be weeks, could be months. We're not putting a ti
 - **Linux** - Experimental (working, being refined)
 - **macOS** - Coming soon
 
-### Can I get a refund?
-
-Yes. We offer a 60-day money-back guarantee, no questions asked. If you're not happy with the software, just email us and we'll refund your purchase.
 
 ### Do you offer educational or non-profit discounts?
 
