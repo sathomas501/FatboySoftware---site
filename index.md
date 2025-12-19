@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Fatboy Financial Planner - Serious Planning. Less Serious Approach.
+title: Fatboy Financial Planner
 ---
 
-# Fatboy Software
+## Fatboy Software
 
-## No stock photos of beaches. No grassy fields. Just serious retirement planning software.
+**No stock photos of beaches. No grassy fields. Just serious retirement planning software.**
 
 We're building planning tools for people who want to figure out their retirement without hiring a financial advisor or getting sold an annuity.
 
