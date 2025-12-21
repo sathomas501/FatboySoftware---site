@@ -21,7 +21,7 @@ You know those "advisor-level" features other software brags about? We actually 
 Start with the free version - it's actually useful, not a bait-and-switch trial. Need advanced features or unlimited scenarios? One-time $TBA Pro version upgrade. No subscriptions. No annual "updates" that are just bug fixes with a new price tag.
 
 ### "What if I..." actually works here
-Want to see what happens if you retire at 62 instead of 65? Convert $50k to Roth? Pay off your mortgage early? **Model what happens when TCJA expires in 2026?** Edit tax parameters yourself - federal and state. Every change flows through to cash flow, taxes, and actual outcomes you can understand.
+Want to see what happens if you retire at 62 instead of 65? Live large rather than lean. Convert $50k to Roth? Pay off your mortgage early? **Model what happens when TCJA expires in 2026?** Edit tax parameters yourself - federal and state. Every change flows through to cash flow, taxes, and actual outcomes you can understand.
 
 **[See how we compare](/comparison)** to the other guys (spoiler: we're cheaper and you actually own it).
 
@@ -31,7 +31,7 @@ Want to see what happens if you retire at 62 instead of 65? Convert $50k to Roth
    Your age, accounts, debts, spending, and the assumptions you're making (inflation, returns, salary growth, COLA).
 
 2. **Build and compare scenarios**
-   Different retirement ages. Roth conversion strategies. Withdrawal orders. Big life events. **Different tax law scenarios.** See what actually happens.
+   Different retirement ages. Roth conversion strategies. Withdrawal orders. Big life events. Aspirational lifestyle changes. **Different tax law scenarios.** See what actually happens.
 
 3. **Explore until it clicks**
    Interactive charts and comparison dashboards. Edit tax parameters to model future law changes or state tax scenarios. No babbling brooks or sunset imagery - just data you can actually use to make decisions.
@@ -52,22 +52,22 @@ Want to see what happens if you retire at 62 instead of 65? Convert $50k to Roth
 - **Internet:** Optional - only for downloading tax data updates
 
 ### The Privacy Thing
-Everything runs on your computer. No cloud. No "syncing to our servers for your convenience." Your financial data is yours, not ours.
+Everything runs on your computer. No cloud. No "syncing to our servers for your convenience." No data harvesting. Your financial data is yours, not ours. 
 
 ## Pricing
 
-### 🎯 Founding Member Offer - $149 One-Time
+## Founding Member Offer - $149 One-Time
 
 **First 200 users only.** Lock in this price forever.
 
 Full Pro features. No subscriptions. Pay once, own it permanently. Regular price will be higher.
 
-- ✅ Unlimited scenarios
-- ✅ Advanced Roth conversion optimizer
-- ✅ Interactive goal solver
-- ✅ Sankey cash flow diagrams
-- ✅ Advanced tax optimization
-- ✅ All future updates included
+-  Unlimited scenarios
+-  Advanced Roth conversion optimizer
+-  Interactive goal solver
+-  Sankey cash flow diagrams
+-  Advanced tax optimization
+-  All future updates included
 
 [Buy Now – Founding Member ($149)](https://buy.stripe.com/4gM8wI92w9i98r95sSawo00) | [See Full Pricing Details](/pricing)
 
