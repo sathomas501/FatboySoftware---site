@@ -6,7 +6,7 @@ keywords: retirement planning software, one-time purchase, no subscription, Roth
 ---
 
 
-![Fatboy Software Logo](/assets/images/Fatboy%20Software%20Logo.png)
+<img src="/assets/images/Fatboy%20Software%20Logo.png" alt="Fatboy Software Logo" style="max-width: 150px; height: auto;">
 
 **No stock photos of beaches. No grassy fields. Just serious retirement planning software.**
 
