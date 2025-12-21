@@ -67,4 +67,4 @@ _Analyze and optimize your portfolio allocation strategy across all accounts._
 
 ---
 
-[Back to Home](/) | [Join the Waitlist](mailto:fatboy501@gmail.com?subject=Join%20the%20waitlist%20for%20Fatboy%20Software)
+[Back to Home](/) 

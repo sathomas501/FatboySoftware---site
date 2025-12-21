@@ -19,7 +19,7 @@ We're building planning tools for people who want to figure out their retirement
 You know those "advisor-level" features other software brags about? We actually built them. This isn't a retirement calculator with delusions of grandeur.
 
 ### Free to start. One-time upgrade if you need more.
-Start with the free version - it's actually useful, not a bait-and-switch trial. Need advanced features or unlimited scenarios? One-time $XXX upgrade. No subscriptions. No annual "updates" that are just bug fixes with a new price tag.
+Start with the free version - it's actually useful, not a bait-and-switch trial. Need advanced features or unlimited scenarios? One-time $TBA Pro version upgrade. No subscriptions. No annual "updates" that are just bug fixes with a new price tag.
 
 ### "What if I..." actually works here
 Want to see what happens if you retire at 62 instead of 65? Convert $50k to Roth? Pay off your mortgage early? **Model what happens when TCJA expires in 2026?** Edit tax parameters yourself - federal and state. Every change flows through to cash flow, taxes, and actual outcomes you can understand.
