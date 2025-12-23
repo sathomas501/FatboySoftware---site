@@ -1,0 +1,16 @@
+{
+  "name": "fatboy-financial-planner-website",
+  "version": "1.0.0",
+  "description": "Image optimization tools for Fatboy Financial Planner website",
+  "private": true,
+  "scripts": {
+    "optimize-images": "node optimize-images.js",
+    "optimize": "npm run optimize-images"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

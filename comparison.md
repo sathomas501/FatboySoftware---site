@@ -5,7 +5,13 @@ description: Compare Fatboy Financial Planner to Boldin, MaxiFi, WealthTrace, an
 keywords: retirement software comparison, Boldin vs MaxiFi, retirement planner reviews, one-time purchase vs subscription, best retirement planning software
 ---
 
-<img src="/assets/images/Fatboy%20Software%20Logo.png" alt="Fatboy Software Logo" width="160" />
+<picture>
+  <source srcset="/assets/images/optimized/Fatboy_Software_Logo.webp" type="image/webp">
+  <img src="/assets/images/optimized/Fatboy_Software_Logo.png"
+       alt="Fatboy Software Logo"
+       loading="eager"
+       style="max-width: 160px; height: auto;">
+</picture>
 
 # How Fatboy Financial Planner Compares
 
@@ -13,13 +19,17 @@ We built Fatboy Financial Planner for people who want serious planning tools wit
 
 ## Pricing Comparison
 
+<div class="table-wrapper" markdown="block">
+
 | Software | Pricing Model | Cost |
 |----------|--------------|------|
 | **Fatboy Financial Planner Free** | **Forever free** | **$0** |
-| **Fatboy Financial Planner Pro** | **One-time upgrade** | **$TBA** |
+| **Fatboy Financial Planner Pro** | **One-time upgrade** | **$149 (limited offer)/$TBA after that** |
 | Boldin (NewRetirement) | Annual subscription | $120-$240/year |
 | MaxiFi Planner | Annual subscription | $99-$199/year |
 | Pralana Gold | One-time purchase | $295 |
+
+</div>
 
 ### Why This Pricing Model Matters
 
@@ -29,6 +39,8 @@ We built Fatboy Financial Planner for people who want serious planning tools wit
 - **Your plan, your data** - Whether you're free or pro, your data stays yours.
 
 ## Feature Comparison
+
+<div class="table-wrapper" markdown="block">
 
 | Feature | Fatboy Free | Fatboy Pro | Boldin | MaxiFi | Pralana |
 |---------|-------------|------------|---------|---------|---------|
@@ -48,6 +60,8 @@ We built Fatboy Financial Planner for people who want serious planning tools wit
 | **Data Import** | ✅ CSV/Manual | ✅ CSV/Manual | ✅ Link accounts | ⚠️ Manual | ⚠️ Manual |
 | **Account Types Supported** | ✅ All major | ✅ All major | ✅ All major | ✅ All major | ✅ All major |
 | **Tax Assumptions** | ✅ Editable | ✅ Editable | 🔄 Auto-updated | 🔄 Auto-updated | ⚠️ Fixed |
+
+</div>
 
 **Legend:**
 ✅ Full support | ⚠️ Limited/Basic | ❌ Not available | 🔄 Subscription-based updates
@@ -81,6 +95,8 @@ Want to see what your plan looks like when TCJA expires in 2026? Change the brac
 
 ### Subscriptions vs Control: The Real Trade-off
 
+<div class="table-wrapper" markdown="block">
+
 | Subscription Services | Fatboy Financial Planner |
 |----------------------|----------------------|
 | Auto-updated tax rates (tied to ongoing payments) | You edit tax parameters yourself - federal and state |
@@ -88,6 +104,8 @@ Want to see what your plan looks like when TCJA expires in 2026? Change the brac
 | Can't model future tax law changes | Model TCJA expiration, proposed tax changes, state tax scenarios |
 | Locked into their assumptions | Full control - edit any tax parameter |
 | One tax scenario at a time | Run multiple scenarios with different tax laws |
+
+</div>
 
 ### When Do Tax Rates Actually Change?
 

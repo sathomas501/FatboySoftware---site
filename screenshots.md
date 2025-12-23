@@ -5,7 +5,13 @@ description: Explore Fatboy Financial Planner features through screenshots. See 
 keywords: retirement planner screenshots, retirement planning software demo, Roth conversion tool, cash flow visualization, retirement calculator interface
 ---
 
-<img src="/assets/images/Fatboy%20Software%20Logo.png" alt="Fatboy Software Logo" width="160" />
+<picture>
+  <source srcset="/assets/images/optimized/Fatboy_Software_Logo.webp" type="image/webp">
+  <img src="/assets/images/optimized/Fatboy_Software_Logo.png"
+       alt="Fatboy Software Logo"
+       loading="eager"
+       style="max-width: 160px; height: auto;">
+</picture>
 
 # Fatboy Financial Planner Screenshots
 
@@ -14,58 +20,190 @@ Explore the features and capabilities of Fatboy Financial Planner through these 
 ## Getting Started
 
 ### Landing Page
-![Landing Page](/assets/images/landing_page.png)
-_"Cube" navigation landing page provides intuitive access to all major features._
+<picture>
+  <source srcset="/assets/images/optimized/landing_page-400w.webp 400w, /assets/images/optimized/landing_page-800w.webp 800w, /assets/images/optimized/landing_page-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/landing_page-400w.png 400w, /assets/images/optimized/landing_page-800w.png 800w, /assets/images/optimized/landing_page-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/landing_page-800w.png"
+       alt="Landing Page"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>"Cube" navigation landing page provides intuitive access to all major features.</em>
 
 ### Planning Wizard
-![Planning Wizard](/assets/images/plan_wizard.png)
-_Step-by-step guidance to build and compare retirement scenarios._
+<picture>
+  <source srcset="/assets/images/optimized/plan_wizard-400w.webp 400w, /assets/images/optimized/plan_wizard-800w.webp 800w, /assets/images/optimized/plan_wizard-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/plan_wizard-400w.png 400w, /assets/images/optimized/plan_wizard-800w.png 800w, /assets/images/optimized/plan_wizard-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/plan_wizard-800w.png"
+       alt="Planning Wizard"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Step-by-step guidance to build and compare retirement scenarios.</em>
 
 ## Planning & Analysis
 
 ### Plan Summary Dashboard
-![Plan Summary](/assets/images/plan_summary.png)
-_Comprehensive dashboard view of your current retirement plan with key metrics and projections._
+<picture>
+  <source srcset="/assets/images/optimized/plan_summary-400w.webp 400w, /assets/images/optimized/plan_summary-800w.webp 800w, /assets/images/optimized/plan_summary-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/plan_summary-400w.png 400w, /assets/images/optimized/plan_summary-800w.png 800w, /assets/images/optimized/plan_summary-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/plan_summary-800w.png"
+       alt="Plan Summary Dashboard"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Comprehensive dashboard view of your current retirement plan with key metrics and projections.</em>
 
 ### Goal Solver
-![Goal Solver](/assets/images/goal_solver.png)
-_Interactive goal planning tool to help you work backwards from your retirement objectives._
+<picture>
+  <source srcset="/assets/images/optimized/goal_solver-400w.webp 400w, /assets/images/optimized/goal_solver-800w.webp 800w, /assets/images/optimized/goal_solver-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/goal_solver-400w.png 400w, /assets/images/optimized/goal_solver-800w.png 800w, /assets/images/optimized/goal_solver-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/goal_solver-800w.png"
+       alt="Goal Solver"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Interactive goal planning tool to help you work backwards from your retirement objectives.</em>
 
 ### Cash Flow Visualization
-![Sankey Cash Flow](/assets/images/sankey_cashflow.png)
-_Sankey diagram showing the flow of money through your retirement years - income sources, taxes, and spending._
+<picture>
+  <source srcset="/assets/images/optimized/sankey_cashflow-400w.webp 400w, /assets/images/optimized/sankey_cashflow-800w.webp 800w, /assets/images/optimized/sankey_cashflow-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/sankey_cashflow-400w.png 400w, /assets/images/optimized/sankey_cashflow-800w.png 800w, /assets/images/optimized/sankey_cashflow-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/sankey_cashflow-800w.png"
+       alt="Sankey Cash Flow Diagram"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Sankey diagram showing the flow of money through your retirement years - income sources, taxes, and spending.</em>
 
 ### Monte Carlo Dashboard
-![Monte Carlo Dashboard](/assets/images/MC_dashboard.png)
-_Probabilistic simulation dashboard that shows the likelihood of plan success and the range of possible outcomes._
+<picture>
+  <source srcset="/assets/images/optimized/MC_dashboard-400w.webp 400w, /assets/images/optimized/MC_dashboard-800w.webp 800w, /assets/images/optimized/MC_dashboard-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/MC_dashboard-400w.png 400w, /assets/images/optimized/MC_dashboard-800w.png 800w, /assets/images/optimized/MC_dashboard-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/MC_dashboard-800w.png"
+       alt="Monte Carlo Dashboard"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Probabilistic simulation dashboard that shows the likelihood of plan success and the range of possible outcomes.</em>
 
 ### Assets Over Time
-![Assets Over Time](/assets/images/assets_over_time.png)
-_Long-term view of how your portfolio balances grow, peak, and draw down across your retirement timeline._
+<picture>
+  <source srcset="/assets/images/optimized/assets_over_time-400w.webp 400w, /assets/images/optimized/assets_over_time-800w.webp 800w, /assets/images/optimized/assets_over_time-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/assets_over_time-400w.png 400w, /assets/images/optimized/assets_over_time-800w.png 800w, /assets/images/optimized/assets_over_time-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/assets_over_time-800w.png"
+       alt="Assets Over Time Chart"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Long-term view of how your portfolio balances grow, peak, and draw down across your retirement timeline.</em>
 
 ### Projection Center
-![Projection Center](/assets/images/projection_center.png)
-_Central hub for adjusting key assumptions and instantly seeing how projections change across the plan._
+<picture>
+  <source srcset="/assets/images/optimized/projection_center-400w.webp 400w, /assets/images/optimized/projection_center-800w.webp 800w, /assets/images/optimized/projection_center-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/projection_center-400w.png 400w, /assets/images/optimized/projection_center-800w.png 800w, /assets/images/optimized/projection_center-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/projection_center-800w.png"
+       alt="Projection Center"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Central hub for adjusting key assumptions and instantly seeing how projections change across the plan.</em>
 
 ## Account & Debt Management
 
 ### Assets and Accounts
-![Assets and Accounts](/assets/images/assets_accounts.png)
-_Enter or import all of your accounts and add your assets, with customizable tax treatment options._
+<picture>
+  <source srcset="/assets/images/optimized/assets_accounts-400w.webp 400w, /assets/images/optimized/assets_accounts-800w.webp 800w, /assets/images/optimized/assets_accounts-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/assets_accounts-400w.png 400w, /assets/images/optimized/assets_accounts-800w.png 800w, /assets/images/optimized/assets_accounts-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/assets_accounts-800w.png"
+       alt="Assets and Accounts Screen"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Enter or import all of your accounts and add your assets, with customizable tax treatment options.</em>
 
 ### Debt Entry
-![Debt Entry](/assets/images/debt_entry.png)
-_Track and plan for mortgages, loans, and other debts with detailed payment schedules and impact analysis._
+<picture>
+  <source srcset="/assets/images/optimized/debt_entry-400w.webp 400w, /assets/images/optimized/debt_entry-800w.webp 800w, /assets/images/optimized/debt_entry-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/debt_entry-400w.png 400w, /assets/images/optimized/debt_entry-800w.png 800w, /assets/images/optimized/debt_entry-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/debt_entry-800w.png"
+       alt="Debt Entry Screen"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Track and plan for mortgages, loans, and other debts with detailed payment schedules and impact analysis.</em>
 
 ## Portfolio Analysis
 
 ### Portfolio Allocations
-![Allocations](/assets/images/allocations.png)
-_Visual breakdown of your current and target portfolio allocations across asset classes._
+<picture>
+  <source srcset="/assets/images/optimized/allocations-400w.webp 400w, /assets/images/optimized/allocations-800w.webp 800w, /assets/images/optimized/allocations-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/allocations-400w.png 400w, /assets/images/optimized/allocations-800w.png 800w, /assets/images/optimized/allocations-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/allocations-800w.png"
+       alt="Portfolio Allocations Chart"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Visual breakdown of your current and target portfolio allocations across asset classes.</em>
 
 ### Allocation Analyzer
-![Allocation Analyzer](/assets/images/allocation_analyzer.png)
-_Analyze and optimize your portfolio allocation strategy across all accounts._
+<picture>
+  <source srcset="/assets/images/optimized/allocation_analyzer-400w.webp 400w, /assets/images/optimized/allocation_analyzer-800w.webp 800w, /assets/images/optimized/allocation_analyzer-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/allocation_analyzer-400w.png 400w, /assets/images/optimized/allocation_analyzer-800w.png 800w, /assets/images/optimized/allocation_analyzer-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/allocation_analyzer-800w.png"
+       alt="Allocation Analyzer Tool"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Analyze and optimize your portfolio allocation strategy across all accounts.</em>
 
 ---
 

@@ -5,7 +5,13 @@ description: Free retirement planning software with optional Pro upgrade. Foundi
 keywords: retirement planning software pricing, one-time purchase, no subscription, founding member offer
 ---
 
-<img src="/assets/images/Fatboy%20Software%20Logo.png" alt="Fatboy Software Logo" width="160" />
+<picture>
+  <source srcset="/assets/images/optimized/Fatboy_Software_Logo.webp" type="image/webp">
+  <img src="/assets/images/optimized/Fatboy_Software_Logo.png"
+       alt="Fatboy Software Logo"
+       loading="eager"
+       style="max-width: 160px; height: auto;">
+</picture>
 
 # Pricing
 
@@ -69,6 +75,8 @@ Once we reach 200 Founding Members, the price will increase. We haven't announce
 
 **You own it. They rent it to you.**
 
+<div class="table-wrapper" markdown="block">
+
 | Fatboy Financial Planner | Subscription Services |
 |-------------------------|----------------------|
 | $149 once (Founding Member) | $99-$240 per year |
@@ -76,6 +84,8 @@ Once we reach 200 Founding Members, the price will increase. We haven't announce
 | All features included | Often tier features to upsell |
 | Year 5: Still $149 total | Year 5: $500-$1,200 spent |
 | Year 10: Still $149 total | Year 10: $1,000-$2,400 spent |
+
+</div>
 
 [See detailed comparison](/comparison) with Boldin, MaxiFi, and Pralana.
 

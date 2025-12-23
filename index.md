@@ -6,7 +6,13 @@ keywords: retirement planning software, one-time purchase, no subscription, Roth
 ---
 
 
-<img src="/assets/images/Fatboy%20Software%20Logo.png" alt="Fatboy Software Logo" style="max-width: 150px; height: auto;">
+<picture>
+  <source srcset="/assets/images/optimized/Fatboy_Software_Logo.webp" type="image/webp">
+  <img src="/assets/images/optimized/Fatboy_Software_Logo.png"
+       alt="Fatboy Software Logo"
+       loading="eager"
+       style="max-width: 150px; height: auto;">
+</picture>
 
 **No stock photos of beaches. No grassy fields. Just serious retirement planning software.**
 
@@ -40,7 +46,7 @@ Lifestyle scenario comparisons let you set up different versions of your plan (l
 
 ## System Requirements
 
-**Desktop application. Your data stays on your machine. Where it belongs.**
+**Desktop application. Your data stays on your machine. Where it belongs. Do you really need to life plan on your phone?**
 
 ### Supported Platforms
 - **Windows 10/11** - Fully tested, currently in beta
@@ -58,17 +64,61 @@ Everything runs on your computer. No cloud. No "syncing to our servers for your 
 
 ## See It In Action
 
-![Plan Summary Dashboard](/assets/images/plan_summary.png)
-_Comprehensive dashboard view of your retirement plan with interactive charts and projections._
+<picture>
+  <source srcset="/assets/images/optimized/plan_summary-400w.webp 400w, /assets/images/optimized/plan_summary-800w.webp 800w, /assets/images/optimized/plan_summary-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/plan_summary-400w.png 400w, /assets/images/optimized/plan_summary-800w.png 800w, /assets/images/optimized/plan_summary-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/plan_summary-800w.png"
+       alt="Plan Summary Dashboard"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Comprehensive dashboard view of your retirement plan with interactive charts and projections.</em>
 
-![Monte Carlo Dashboard](/assets/images/MC_dashboard.png)
-_Monte Carlo simulation dashboard showing probability of success and the range of potential outcomes._
+<picture>
+  <source srcset="/assets/images/optimized/MC_dashboard-400w.webp 400w, /assets/images/optimized/MC_dashboard-800w.webp 800w, /assets/images/optimized/MC_dashboard-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/MC_dashboard-400w.png 400w, /assets/images/optimized/MC_dashboard-800w.png 800w, /assets/images/optimized/MC_dashboard-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/MC_dashboard-800w.png"
+       alt="Monte Carlo Dashboard"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Monte Carlo simulation dashboard showing probability of success and the range of potential outcomes.</em>
 
-![Assets Over Time](/assets/images/assets_over_time.png)
-_Long-term view of how your assets grow and deplete over time under different planning scenarios._
+<picture>
+  <source srcset="/assets/images/optimized/assets_over_time-400w.webp 400w, /assets/images/optimized/assets_over_time-800w.webp 800w, /assets/images/optimized/assets_over_time-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/assets_over_time-400w.png 400w, /assets/images/optimized/assets_over_time-800w.png 800w, /assets/images/optimized/assets_over_time-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/assets_over_time-800w.png"
+       alt="Assets Over Time"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Long-term view of how your assets grow and deplete over time under different planning scenarios.</em>
 
-![Projection Center](/assets/images/projection_center.png)
-_Central hub for adjusting key assumptions and instantly seeing the impact on your retirement projections._
+<picture>
+  <source srcset="/assets/images/optimized/projection_center-400w.webp 400w, /assets/images/optimized/projection_center-800w.webp 800w, /assets/images/optimized/projection_center-1200w.webp 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/webp">
+  <source srcset="/assets/images/optimized/projection_center-400w.png 400w, /assets/images/optimized/projection_center-800w.png 800w, /assets/images/optimized/projection_center-1200w.png 1200w"
+          sizes="(max-width: 600px) 100vw, (max-width: 1024px) 80vw, 1200px"
+          type="image/png">
+  <img src="/assets/images/optimized/projection_center-800w.png"
+       alt="Projection Center"
+       loading="lazy"
+       style="max-width: 100%; height: auto;">
+</picture>
+<em>Central hub for adjusting key assumptions and instantly seeing the impact on your retirement projections.</em>
 
 [View All Screenshots](/screenshots) to explore the full feature set including portfolio analysis, cash flow visualization, goal planning, and more.
 
