@@ -4,6 +4,78 @@ title: Thank You - Fatboy Financial Planner
 description: Thank you for your purchase! Here's what happens next.
 ---
 
+<!-- Google Analytics Purchase Conversion Tracking -->
+<script>
+  // Track purchase conversion when page loads
+  window.addEventListener('load', function() {
+    // Get session_id from URL if available (requires Stripe redirect URL with {CHECKOUT_SESSION_ID})
+    const urlParams = new URLSearchParams(window.location.search);
+    const sessionId = urlParams.get('session_id');
+
+    // Track purchase event in Google Analytics (GA4)
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'purchase', {
+        transaction_id: sessionId || 'ffp-' + Date.now(), // Use session_id or generate unique ID
+        value: 149.00,
+        currency: 'USD',
+        tax: 0,
+        shipping: 0,
+        items: [{
+          item_id: 'ffp-pro-founding-member',
+          item_name: 'Fatboy Financial Planner Pro - Founding Member',
+          item_brand: 'Fatboy Software',
+          item_category: 'Software',
+          item_category2: 'Financial Planning',
+          item_variant: 'One-time Purchase',
+          price: 149.00,
+          quantity: 1
+        }]
+      });
+
+      console.log('Google Analytics purchase event tracked:', sessionId || 'no session_id');
+    } else {
+      console.warn('Google Analytics (gtag) not found. Make sure GA4 is installed.');
+    }
+
+    // Optional: Track in Universal Analytics (older GA) if still using it
+    if (typeof ga !== 'undefined') {
+      ga('ecommerce:addTransaction', {
+        id: sessionId || 'ffp-' + Date.now(),
+        revenue: '149.00',
+        currency: 'USD'
+      });
+      ga('ecommerce:addItem', {
+        id: sessionId || 'ffp-' + Date.now(),
+        name: 'Fatboy Financial Planner Pro - Founding Member',
+        sku: 'ffp-pro-founding-member',
+        category: 'Software',
+        price: '149.00',
+        quantity: '1'
+      });
+      ga('ecommerce:send');
+    }
+  });
+</script>
+
+<!-- Optional: Meta Pixel (Facebook) Purchase Tracking -->
+<!-- Uncomment and add your pixel ID when ready -->
+<!--
+<script>
+  window.addEventListener('load', function() {
+    if (typeof fbq !== 'undefined') {
+      fbq('track', 'Purchase', {
+        value: 149.00,
+        currency: 'USD',
+        content_name: 'Fatboy Financial Planner Pro - Founding Member',
+        content_type: 'product',
+        content_ids: ['ffp-pro-founding-member']
+      });
+      console.log('Meta Pixel purchase event tracked');
+    }
+  });
+</script>
+-->
+
 <picture>
   <source srcset="/assets/images/optimized/Fatboy_Software_Logo.webp" type="image/webp">
   <img src="/assets/images/optimized/Fatboy_Software_Logo.png"
